@@ -17,5 +17,6 @@ PHP: Used to fetch weather data from the OpenWeatherMap API and render it dynami
 Bootstrap: Provides styling and layout for a clean user interface.
 Credits
 This project utilizes the OpenWeatherMap API to retrieve weather data.
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
