@@ -13,9 +13,11 @@ This is a simple weather app built using PHP, designed to be beginner-friendly. 
 
 1. **Clone or Download**: Clone the repository to your local machine or download the files.
 2. **PHP Installation**: Ensure PHP is installed on your system.
-3. **API Key**: Obtain an API key from OpenWeatherMap and replace 'YOUR_API_KEY' in the code with your actual API key.
-4. **Viewing the App**: Open `index.php` in your web browser or host it on a web server.
-5. **Search**: Enter the name of your city and click the "Search" button to retrieve weather information.
+3. **API Key**: Obtain an API key from [OpenWeatherMap ](https://openweathermap.org/) and replace 'YOUR_API_KEY' in the code with your actual API key.
+4. How to get API Key first you create account , verify email after go on this https://openweathermap.org/current this
+5.  url after go on this https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+6. **Viewing the App**: Open `index.php` in your web browser or host it on a web server.
+7. **Search**: Enter the name of your city and click the "Search" button to retrieve weather information.
 
 ## Technologies Used:
 
